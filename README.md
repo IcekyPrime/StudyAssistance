@@ -1,4 +1,4 @@
-# StudyAssist
+# StudyAssistance
 
 一个简洁实用的学习助手应用，帮助用户管理题目、随机练习和学习。
 
