@@ -124,10 +124,10 @@ StudyAssist/
 
 如有问题或建议，请通过以下方式联系：
 
-- 作者: [Your Name]
-- 邮箱: [your.email@example.com]
+- 作者: Iceky Prime
+- 邮箱: icekyprime@sjtu.edu.cn
 
 ---
 
-**版本**: 1.0.0
-**更新日期**: 2024年6月
+**版本**: 1.0
+**更新日期**: 2025年12月
